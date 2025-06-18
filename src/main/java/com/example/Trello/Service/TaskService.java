@@ -27,4 +27,7 @@ public class TaskService {
     }
 
 
+    public List<Task> getAllTasks() {
+
+    }
 }
